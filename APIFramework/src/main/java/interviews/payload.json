@@ -1,0 +1,36 @@
+{
+  "centers": [
+    {
+      "center_id": 406763,
+      "name": "BMZ-174 Agara UPHC",
+      "address": "Sarjapura Main Road",
+      "state_name": "Karnataka",
+      "district_name": "BBMP",
+      "block_name": "Bommanahalli",
+      "pincode": 560102,
+      "lat": 12,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a4ff14a0-b810-447d-b924-83edc67d94b6",
+          "date": "03-10-2021",
+          "available_capacity": 1,
+          "min_age_limit": 18,
+          "allow_all_age": true,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 1,
+          "available_capacity_dose2": 0
+        }
+      ]
+    }
+  ]
+}

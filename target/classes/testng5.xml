@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test name="Personal Loan">
+  
+  <classes>
+  <class name="testcases.Day1">
+  <methods>
+  <include name="SecondTest"/>
+  
+  </methods>
+  
+  </class>
+  <class name="testcases.Day2"/>
+  
+  </classes>
+  
+  </test>  
+  <test name="Car Loan">
+  
+  <classes>
+  <class name="testcases.Day3">
+  <methods>
+  
+  <exclude name="MobileLogincarLoan"/>
+  
+  </methods>
+  
+  </class>
+  
+  </classes>
+  
+  </test>
+  
+</suite> <!-- Suite -->
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test thread-count="5" name="Personal Loan">
+    <classes>
+    
+      <class name="testcases.Day1"/>
+      <class name="testcases.Day2"/>
+      <class name="testcases.Day4">
+      <methods>
+      
+      <include name="WebloginHomeLoan"/>
+      
+      </methods>
+      </class>
+      
+    </classes>
+    
+  </test> 
+   <test name="Car loan">
+   <classes>
+   
+   <class name="testcases.Day3">
+     <methods>
+     <exclude name="WebloginCarLoan"/>
+     <exclude name=".*API.*"/>
+     </methods>
+   
+   </class>
+   
+   </classes>
+   
+   
+   </test>
+  
+  
+</suite> <!-- Suite -->

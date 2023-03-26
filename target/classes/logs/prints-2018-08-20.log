@@ -1,0 +1,8 @@
+22:12:11.994 [main] INFO  academy.HomePage - Driver initialized
+22:12:30.647 [main] INFO  academy.HomePage - Opened url successfully
+22:12:38.016 [main] INFO  academy.HomePage - driver closed after test completed
+22:12:40.442 [main] INFO  academy.HomePage - Driver initialized
+22:12:58.707 [main] INFO  academy.HomePage - Opened url successfully
+22:13:06.355 [main] INFO  academy.HomePage - driver closed after test completed
+22:13:08.718 [main] INFO  academy.HomePage - Driver initialized
+22:13:26.998 [main] INFO  academy.HomePage - Opened url successfully

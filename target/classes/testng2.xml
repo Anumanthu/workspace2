@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+
+<listener class-name="academy.ListenersClass"/>
+
+<listener class-name="resources.ExtentReporterNG"/>
+
+<!--  listener class-name="resources.ExtentReporterNG"/-->
+
+</listeners>
+
+
+
+ <parameter name="userid" value="anumanthunitt@gmail.com"/>
+ <parameter name="password" value="sandhya.143"/>
+  <test thread-count="5" name="FacebookFriends">
+ 
+    <classes>
+      
+       <class name="academy.FaceBookPrintFriends"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

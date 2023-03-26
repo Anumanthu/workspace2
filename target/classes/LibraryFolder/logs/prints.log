@@ -1,0 +1,54 @@
+2019-02-22  21:32:31.668 [main] INFO  academy.ValaidateNavigationBar - Opened url successfully
+2019-02-22  21:40:28.987 [main] INFO  academy.HomePage - Driver initialized
+2019-02-22  21:40:48.799 [main] INFO  academy.HomePage - Opened url successfully
+2019-02-22  21:41:05.857 [main] INFO  academy.HomePage - Entered usename  Anumanthu@gmail.com Successfully
+2019-02-22  21:41:06.016 [main] INFO  academy.HomePage - Entered usename  XXXXXXXXX Successfully
+2019-02-22  21:41:07.873 [main] INFO  academy.HomePage - Clicked login button Successfully
+2019-02-22  21:41:10.212 [main] INFO  academy.HomePage - driver closed after test completed
+2019-02-22  21:41:13.406 [main] INFO  academy.HomePage - Driver initialized
+2019-02-22  21:41:33.406 [main] INFO  academy.HomePage - Opened url successfully
+2019-02-22  21:41:50.304 [main] INFO  academy.HomePage - Entered usename  Divya@gmail.com Successfully
+2019-02-22  21:41:50.385 [main] INFO  academy.HomePage - Entered usename  YYYYYY Successfully
+2019-02-22  21:41:52.545 [main] INFO  academy.HomePage - Clicked login button Successfully
+2019-02-22  21:41:52.798 [main] INFO  academy.HomePage - driver closed after test completed
+2019-02-22  21:41:56.023 [main] INFO  academy.HomePage - Driver initialized
+2019-02-22  21:42:19.092 [main] INFO  academy.HomePage - Opened url successfully
+2019-02-22  21:42:35.565 [main] INFO  academy.HomePage - Entered usename  Nandini@gmail.com Successfully
+2019-02-22  21:42:35.627 [main] INFO  academy.HomePage - Entered usename  ZZZZZ Successfully
+2019-02-22  21:42:40.104 [main] INFO  academy.HomePage - Clicked login button Successfully
+2019-02-22  21:42:40.305 [main] INFO  academy.HomePage - driver closed after test completed
+2019-02-22  21:42:43.395 [main] INFO  academy.AssertionTestCase - Driver initialized
+2019-02-22  21:43:00.173 [main] INFO  academy.AssertionTestCase - Opened url successfully
+2019-02-22  21:43:10.207 [main] INFO  academy.AssertionTestCase - Verified FEATURED COURSES SUCCESSFULLY
+2019-02-22  21:43:12.273 [main] INFO  academy.AssertionTestCase - driver closed after test completed
+2019-02-22  21:43:15.352 [main] INFO  academy.ValaidateNavigationBar - Driver initialized
+2019-02-22  21:43:32.643 [main] INFO  academy.ValaidateNavigationBar - Opened url successfully
+2019-02-22  21:43:45.613 [main] INFO  academy.ValaidateNavigationBar - driver closed after test completed
+2019-02-22  21:57:30.496 [main] INFO  academy.HomePage - Driver initialized
+2019-02-22  21:57:51.095 [main] INFO  academy.HomePage - Opened url successfully
+2019-02-22  21:58:08.445 [main] INFO  academy.HomePage - Entered usename  Anumanthu@gmail.com Successfully
+2019-02-22  21:58:08.594 [main] INFO  academy.HomePage - Entered usename  XXXXXXXXX Successfully
+2019-02-22  21:58:10.731 [main] INFO  academy.HomePage - Clicked login button Successfully
+2019-02-22  21:58:10.959 [main] INFO  academy.HomePage - driver closed after test completed
+2019-02-22  21:58:14.280 [main] INFO  academy.HomePage - Driver initialized
+2019-02-22  21:58:35.254 [main] INFO  academy.HomePage - Opened url successfully
+2019-02-22  21:58:52.348 [main] INFO  academy.HomePage - Entered usename  Divya@gmail.com Successfully
+2019-02-22  21:58:52.460 [main] INFO  academy.HomePage - Entered usename  YYYYYY Successfully
+2019-02-22  21:58:54.903 [main] INFO  academy.HomePage - Clicked login button Successfully
+2019-02-22  21:58:55.180 [main] INFO  academy.HomePage - driver closed after test completed
+2019-02-22  21:58:58.301 [main] INFO  academy.HomePage - Driver initialized
+2019-02-22  21:59:18.519 [main] INFO  academy.HomePage - Opened url successfully
+2019-02-22  21:59:35.067 [main] INFO  academy.HomePage - Entered usename  Nandini@gmail.com Successfully
+2019-02-22  21:59:35.139 [main] INFO  academy.HomePage - Entered usename  ZZZZZ Successfully
+2019-02-22  21:59:37.688 [main] INFO  academy.HomePage - Clicked login button Successfully
+2019-02-22  21:59:39.755 [main] INFO  academy.HomePage - driver closed after test completed
+2019-02-22  21:59:43.078 [main] INFO  academy.AssertionTestCase - Driver initialized
+2019-02-22  21:59:59.357 [main] INFO  academy.AssertionTestCase - Opened url successfully
+2019-02-22  22:00:09.394 [main] INFO  academy.AssertionTestCase - Verified FEATURED COURSES SUCCESSFULLY
+2019-02-22  22:00:11.704 [main] INFO  academy.AssertionTestCase - driver closed after test completed
+2019-02-22  22:00:15.036 [main] INFO  academy.ValaidateNavigationBar - Driver initialized
+2019-02-22  22:00:30.709 [main] INFO  academy.ValaidateNavigationBar - Opened url successfully
+2019-02-22  22:00:43.733 [main] INFO  academy.ValaidateNavigationBar - driver closed after test completed
+2019-02-24  16:25:59.588 [main] INFO  academy.HomePage - Driver initialized
+2019-02-24  16:28:17.352 [main] INFO  academy.HomePage - Driver initialized
+2019-02-24  16:35:16.410 [main] INFO  academy.HomePage - Driver initialized

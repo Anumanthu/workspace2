@@ -1,0 +1,7 @@
+21:15:40.463 [main] INFO  academy.HomePage - driver closed after test completed
+21:15:43.815 [main] INFO  academy.AssertionTestCase - Driver initialized
+21:16:02.052 [main] INFO  academy.AssertionTestCase - Opened url successfully
+21:16:12.129 [main] INFO  academy.AssertionTestCase - Verified FEATURED COURSES SUCCESSFULLY
+21:16:12.199 [main] INFO  academy.AssertionTestCase - driver closed after test completed
+21:16:16.215 [main] INFO  academy.ValaidateNavigationBar - Driver initialized
+21:16:34.522 [main] INFO  academy.ValaidateNavigationBar - Opened url successfully

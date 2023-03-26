@@ -1,0 +1,117 @@
+21:07:48.416 [main] INFO  academy.FaceBookPrintFriends - Printed all the friends
+21:07:50.866 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+21:48:25.102 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+21:48:34.462 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+21:48:34.997 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+21:48:52.995 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+21:48:57.365 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+21:49:03.580 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+21:49:04.135 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+21:49:18.768 [main] INFO  academy.FaceBookPrintFriends - Clicked on submit button
+21:49:25.433 [main] INFO  academy.FaceBookPrintFriends - Clicked on Profile link
+21:49:26.438 [main] INFO  academy.FaceBookPrintFriends - Clicked on Friends link
+21:49:28.350 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:49:33.719 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:49:38.921 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:49:44.166 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:49:49.410 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:49:54.750 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:00.083 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:05.410 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:10.866 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:16.463 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:21.835 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:27.383 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:32.840 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:38.420 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:44.038 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:49.568 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:50:55.213 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:51:00.895 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:51:06.102 [main] INFO  academy.FaceBookPrintFriends - Got the total friends count
+21:51:06.102 [main] INFO  academy.FaceBookPrintFriends - Total number of friends  360
+21:51:06.156 [main] INFO  academy.FaceBookPrintFriends - Iterating the friends
+21:51:18.906 [main] INFO  academy.FaceBookPrintFriends - Printed all the friends
+21:51:21.243 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+22:06:58.280 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+22:07:07.654 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+22:07:08.209 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+22:07:22.261 [main] INFO  academy.FaceBookPrintFriends - Clicked on submit button
+22:07:26.230 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+22:07:29.875 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+22:07:37.368 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+22:07:37.945 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+22:07:56.010 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+22:10:11.730 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+22:10:17.947 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+22:10:18.468 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+22:10:36.673 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+22:10:39.252 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+22:10:45.680 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+22:10:46.124 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+22:11:04.548 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+21:53:09.873 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+21:53:12.409 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+21:53:13.189 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+21:53:21.022 [main] INFO  academy.FaceBookPrintFriends - Clicked on submit button
+21:53:29.419 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+21:53:31.344 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+21:53:33.755 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+21:53:34.491 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+21:53:41.446 [main] INFO  academy.FaceBookPrintFriends - Clicked on submit button
+21:53:52.799 [main] INFO  academy.FaceBookPrintFriends - Clicked on Profile link
+21:53:53.612 [main] INFO  academy.FaceBookPrintFriends - Clicked on Friends link
+21:53:55.098 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:00.222 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:05.377 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:10.501 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:15.631 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:20.815 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:25.973 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:31.160 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:36.424 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:41.656 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:46.893 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:52.133 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:54:57.415 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:02.680 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:07.968 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:13.278 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:18.621 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:23.935 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:29.331 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:34.701 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:40.076 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:45.472 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:50.670 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+21:55:55.797 [main] INFO  academy.FaceBookPrintFriends - Got the total friends count
+21:55:55.798 [main] INFO  academy.FaceBookPrintFriends - Total number of friends  460
+21:55:55.856 [main] INFO  academy.FaceBookPrintFriends - Iterating the friends
+21:56:07.302 [main] INFO  academy.FaceBookPrintFriends - Printed all the friends
+21:56:09.626 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+12:42:38.233 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+12:42:40.847 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+12:42:41.636 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+12:42:53.355 [main] INFO  academy.FaceBookPrintFriends - Clicked on submit button
+12:43:01.719 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+12:43:03.603 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+12:43:05.921 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+12:43:06.675 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+12:43:24.305 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+12:46:24.895 [main] INFO  academy.AssertionTestCase - Driver initialized
+12:46:40.618 [main] INFO  academy.AssertionTestCase - Opened url successfully
+12:48:01.874 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+12:48:04.525 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+12:48:05.359 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+12:48:10.779 [main] INFO  academy.FaceBookPrintFriends - Clicked on submit button
+12:48:17.254 [main] INFO  academy.FaceBookPrintFriends - driver closed after test method
+12:48:19.175 [main] INFO  academy.FaceBookPrintFriends - Driver initialized
+12:48:21.940 [main] INFO  academy.FaceBookPrintFriends - Opened url successfully
+12:48:22.683 [main] INFO  academy.FaceBookPrintFriends - Entered login credentials
+12:48:32.250 [main] INFO  academy.FaceBookPrintFriends - Clicked on submit button
+12:48:43.554 [main] INFO  academy.FaceBookPrintFriends - Clicked on Profile link
+12:48:44.189 [main] INFO  academy.FaceBookPrintFriends - Clicked on Friends link
+12:48:45.709 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+12:48:50.790 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+12:48:55.885 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar
+12:49:00.993 [main] INFO  academy.FaceBookPrintFriends - dragging friends list scroll bar

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SeleniumFrameworkDesign">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../SeleniumFrameworkDesign.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

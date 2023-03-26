@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/APIFramework/RealTimeProjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVALEARNING" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MavenProjectSample1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SELENIUM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestNGTutorial2" vcs="Git" />
+  </component>
+</project>

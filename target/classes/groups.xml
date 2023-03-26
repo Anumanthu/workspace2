@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+
+  <test name="Regression">
+  
+  <groups>
+  
+ <run>
+ 
+ <include name="Smoke"/>
+ 
+ <!--exclude name="Smoke"/> It will execute all the test cases in Day1 Day2,Day3 as Regression -->
+ 
+ </run>
+  
+  </groups>
+  
+    <classes>
+    
+      <class name="testcases.Day1"/>
+      <class name="testcases.Day2"/>
+      <class name="testcases.Day3"/>
+      <class name="testcases.Day4"/>
+      
+      </classes>
+      
+    
+   </test>
+  
+  
+</suite> <!-- Suite -->

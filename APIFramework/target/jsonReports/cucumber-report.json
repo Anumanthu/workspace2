@@ -1,0 +1,244 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-02-21T17:00:36.154Z",
+        "line": 14,
+        "name": "Verify if Place is being Succesfully added using AddPlaceAPI",
+        "description": "",
+        "id": "validating-place-api-s;verify-if-place-is-being-succesfully-added-using-addplaceapi;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "error_message": "java.lang.NoClassDefFoundError: Could not initialize class org.codehaus.groovy.reflection.ReflectionCache\r\n\tat org.codehaus.groovy.runtime.dgmimpl.NumberNumberMetaMethod.\u003cclinit\u003e(NumberNumberMetaMethod.java:33)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\r\n\tat org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl.createMetaMethodFromClass(MetaClassRegistryImpl.java:258)\r\n\tat org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl.\u003cinit\u003e(MetaClassRegistryImpl.java:111)\r\n\tat org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl.\u003cinit\u003e(MetaClassRegistryImpl.java:86)\r\n\tat groovy.lang.GroovySystem.\u003cclinit\u003e(GroovySystem.java:36)\r\n\tat org.codehaus.groovy.runtime.InvokerHelper.\u003cclinit\u003e(InvokerHelper.java:86)\r\n\tat org.codehaus.groovy.runtime.ScriptBytecodeAdapter.createMap(ScriptBytecodeAdapter.java:635)\r\n\tat io.restassured.internal.ResponseParserRegistrar.\u003cinit\u003e(ResponseParserRegistrar.groovy)\r\n\tat io.restassured.RestAssured.\u003cclinit\u003e(RestAssured.java:346)\r\n\tat io.restassured.builder.ResponseSpecBuilder.\u003cinit\u003e(ResponseSpecBuilder.java:66)\r\n\tat stepDefinations.StepDefination.user_calls_with_http_request(StepDefination.java:46)\r\n\tat ✽.user calls \"AddPlaceAPI\" with \"POST\" http request(file:src/test/java/features/placeValidations.feature:6)\r\n",
+              "duration": 657141100,
+              "status": "failed"
+            },
+            "line": 6,
+            "name": "user calls \"AddPlaceAPI\" with \"POST\" http request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "AddPlaceAPI",
+                  "offset": 12
+                },
+                {
+                  "val": "POST",
+                  "offset": 31
+                }
+              ],
+              "location": "StepDefination.user_calls_with_http_request(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 42200,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "the API call got success with status code \"200\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 43
+                }
+              ],
+              "location": "StepDefination.the_API_call_got_success_with_status_code(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 26700,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "\"status\" in response body is \"OK\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "status",
+                  "offset": 1
+                },
+                {
+                  "val": "OK",
+                  "offset": 30
+                }
+              ],
+              "location": "StepDefination.in_response_body_is(String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10700,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "\"scope\" in response body is \"APP\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "scope",
+                  "offset": 1
+                },
+                {
+                  "val": "APP",
+                  "offset": 29
+                }
+              ],
+              "location": "StepDefination.in_response_body_is(String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10500,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "verify place_Id created maps to \"AAhouse\" using \"getPlaceAPI\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "AAhouse",
+                  "offset": 33
+                },
+                {
+                  "val": "getPlaceAPI",
+                  "offset": 49
+                }
+              ],
+              "location": "StepDefination.verify_place_Id_created_maps_to_using(String,String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AddPlace"
+          },
+          {
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-21T17:00:36.875Z",
+        "before": [
+          {
+            "result": {
+              "error_message": "java.lang.NoClassDefFoundError: Could not initialize class io.restassured.RestAssured\r\n\tat stepDefinations.StepDefination.add_Place_Payload_with(StepDefination.java:32)\r\n\tat stepDefinations.Hooks.beforeScenario(Hooks.java:15)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:26)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:20)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:65)\r\n\tat cucumber.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:16)\r\n\tat cucumber.runner.TestStep.executeStep(TestStep.java:65)\r\n\tat cucumber.runner.TestStep.run(TestStep.java:50)\r\n\tat cucumber.runner.TestCase.run(TestCase.java:42)\r\n\tat cucumber.runner.Runner.runPickle(Runner.java:50)\r\n\tat io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:146)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:68)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:23)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat io.cucumber.junit.Cucumber.runChild(Cucumber.java:144)\r\n\tat io.cucumber.junit.Cucumber.runChild(Cucumber.java:65)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:174)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)\r\n\tat com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)\r\n\tat com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)\r\n\tat com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)\r\n\tat com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)\r\n\tat com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)\r\n",
+              "duration": 358200,
+              "status": "failed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Verify if Delete Place functionality is working",
+        "description": "",
+        "id": "validating-place-api-s;verify-if-delete-place-functionality-is-working",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 32000,
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "DeletePlace Payload",
+            "match": {
+              "location": "StepDefination.deleteplace_Payload()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10500,
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "user calls \"deletePlaceAPI\" with \"POST\" http request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "deletePlaceAPI",
+                  "offset": 12
+                },
+                {
+                  "val": "POST",
+                  "offset": 34
+                }
+              ],
+              "location": "StepDefination.user_calls_with_http_request(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10200,
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "the API call got success with status code \"200\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 43
+                }
+              ],
+              "location": "StepDefination.the_API_call_got_success_with_status_code(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 24000,
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "\"status\" in response body is \"OK\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "status",
+                  "offset": 1
+                },
+                {
+                  "val": "OK",
+                  "offset": 30
+                }
+              ],
+              "location": "StepDefination.in_response_body_is(String,String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@DeletePlace"
+          },
+          {
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Validating Place API\u0027s",
+    "description": "",
+    "id": "validating-place-api-s",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/placeValidations.feature",
+    "tags": []
+  }
+]

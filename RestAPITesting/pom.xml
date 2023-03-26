@@ -1,0 +1,102 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>RestAPI</groupId>
+    <artifactId>RestAPITesting</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <name>RestAPITesting</name>
+    <url>http://maven.apache.org</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/java/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>3.0.0-M3</version>
+                    <configuration>
+                        <suiteXmlFiles>
+                            <suiteXmlFile>testng2.xml</suiteXmlFile>
+                        </suiteXmlFiles>
+                    </configuration>
+                </plugin>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <version>3.8.1</version>
+                    <configuration>
+                        <fork>true</fork>
+                        <executable>C:\Program Files\Java\jre1.8.0_221\bin\javac.exe</executable>
+                        <source>8</source>
+                        <target>1.8</target>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>4.1.2</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.6.1</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured-common</artifactId>
+            <version>4.1.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>json-schema-validator</artifactId>
+            <version>4.1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>json-path</artifactId>
+            <version>4.1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>xml-path</artifactId>
+            <version>4.1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>scala-support</artifactId>
+            <version>4.1.2</version>
+        </dependency>
+
+
+    </dependencies>
+
+
+</project>

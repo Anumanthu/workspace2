@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="Workspace2" />
+      <module name="APIFramework" />
+      <module name="SeleniumFrameworkDesign" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e79cdb33-b6f3-464a-82d3-73df9837ed87" name="Changes" comment="changes push to git">
+      <change afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/CamelCaseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/SortHashMapByValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/divisibleSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/GenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/GenericClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/HasSetexample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/HasSetexample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/HashMapexple.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/HashMapexple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/Interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/Interface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/Interface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/InterfaceImplementClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/InterfaceImplementClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/ScannerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/Singletonclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/Singletonclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/StackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/StackClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/StringsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/StringsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/SuperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/javaAdvanced/SuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/JavaStreamsLambdaExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/JavaStreamsLambdaExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/KthSmallestNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/KthSmallestNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/NoOfDuplicateWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/NoOfDuplicateWordsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/OutOfMemoryException.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/OutOfMemoryException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/PalindromeChecking.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/PalindromeChecking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/ReadTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/ReadTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/RecursiveString.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/RecursiveString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/RevereseWordsInSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/RevereseWordsInSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MavenProjectSample1/src/main/java/resources/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/MavenProjectSample1/src/main/java/resources/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MavenProjectSample1/src/test/java/academy/FaceBookPrintFriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/MavenProjectSample1/src/test/java/academy/FaceBookPrintFriends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELENIUM/src/assignments/FramesAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM/src/assignments/FramesAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/Actions2ClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/Actions2ClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/DesiredCapabilitiesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/DesiredCapabilitiesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/SeleniumGridExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/SeleniumGridExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/SynchronizationExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/SynchronizationExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/TableGridsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/TableGridsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/TakeScreenshotsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM/src/webdrivertechniques/TakeScreenshotsExamples.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JAVALEARNING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M3BXm2bq94tmO0evrqEifE4LEJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/MavenProjectSample1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anuma\OneDrive\Desktop\Selenium Learning\Workspace2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anuma\OneDrive\Desktop\Selenium Learning\Workspace2\.idea" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src.practiceproblems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CamelCaseWords">
+    <configuration name="CamelCaseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.practiceproblems.CamelCaseWords" />
+      <module name="Workspace2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.practiceproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.javaAdvanced.MathClass" />
+      <module name="Workspace2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.javaAdvanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.practiceproblems.SortChars" />
+      <module name="Workspace2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.practiceproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortHashMapByValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.practiceproblems.SortHashMapByValues" />
+      <module name="Workspace2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.practiceproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapFirstLastCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.practiceproblems.SwapFirstLastCharacters" />
+      <module name="Workspace2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.practiceproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MathClass" />
+      <item itemvalue="Application.SortChars" />
+      <item itemvalue="Application.SortHashMapByValues" />
+      <item itemvalue="Application.SwapFirstLastCharacters" />
+      <item itemvalue="Application.CamelCaseWords" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CamelCaseWords" />
+        <item itemvalue="Application.SortChars" />
+        <item itemvalue="Application.SwapFirstLastCharacters" />
+        <item itemvalue="Application.SortHashMapByValues" />
+        <item itemvalue="Application.MathClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e79cdb33-b6f3-464a-82d3-73df9837ed87" name="Changes" comment="" />
+      <created>1676986429303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676986429303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="main" />
+    <module name="test" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/APIFramework/RealTimeProjects" />
+      <path value="$PROJECT_DIR$/APIFramework1/RealTimeProjects" />
+    </ignored-roots>
+    <MESSAGE value="changes push to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes push to git" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/Regex.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/divisibleSumPairs.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/divisibleSumPairs.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/MakeAnangram.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVALEARNING/src/practiceproblems/MakeAnangram.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+
+LoginPage = {
+  "email1"     : "anumanthunitt@gmail.com"
+  "email"      : By.cssSelector("input[id='user_email']")
+}
